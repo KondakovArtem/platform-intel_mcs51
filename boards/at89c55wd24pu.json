@@ -11,8 +11,7 @@
   "frameworks": [],
   "upload": {
     "maximum_ram_size": 256,
-    "maximum_size": 20480,
-    "protocol": "usbasp",
+    "maximum_size": 20480
   },
   "name": "Generic at89c55wd24pu",
   "url": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc1921.pdf",
