@@ -5,7 +5,7 @@
     "size_xram": 256,
     "size_code": 20480,
     "size_heap": 128,
-    "mcu": "at89c55wd",
+    "mcu": "at89c55wd24pu",
     "cpu": "mcs51"
   },
   "frameworks": [],
@@ -14,7 +14,7 @@
     "maximum_size": 20480,
     "protocol": "usbasp",
   },
-  "name": "Generic AT89C55WD",
+  "name": "Generic at89c55wd24pu",
   "url": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc1921.pdf",
   "vendor": "STC"
 }
